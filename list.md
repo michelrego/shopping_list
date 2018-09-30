@@ -1,7 +1,6 @@
-#MY SHOPPING LIST
+# MY SHOPPING LIST
 
--choclates
-
--strawberries
-
--grapes
+- choclates
+- strawberries
+- grapes
+- pineapple
