@@ -5,3 +5,7 @@
 - grapes
 - pineapple
 - shoes 
+# mobiles 
+- honor
+- samsung
+- redmi
