@@ -9,3 +9,7 @@
 - honor
 - samsung
 - redmi
+# clothes 
+ - skirt 
+ - tops
+ - jeans 
