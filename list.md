@@ -4,3 +4,4 @@
 - strawberries
 - grapes
 - pineapple
+- shoes 
